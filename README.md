@@ -1,5 +1,6 @@
-# face_detect
 # face_detect_api
-# face_detect_api
-# face_detect_api
-# face_detect_api
+Run npm start
+
+Run npm install
+
+use your API key from clarifai 
